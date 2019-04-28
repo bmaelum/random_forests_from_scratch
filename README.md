@@ -21,4 +21,3 @@ The Random Forests algorithm written from scratch in a Jupyter Notebook.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-* **Shaun** - *Creator of tutorial* - [iamshaunjp](https://github.com/iamshaunjp)
