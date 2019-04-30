@@ -1,9 +1,10 @@
 
-# Django project
+# Decision Trees and Random Forests
 
-The Random Forests algorithm written from scratch in a Jupyter Notebook.
+The Decision Trees and Random Forests algorithms written from scratch in Jupyter Notebooks.
 
 ### Inspiration
+* [How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 * [Random forests and decision trees from scratch in python](https://towardsdatascience.com/random-forests-and-decision-trees-from-scratch-in-python-3e4fa5ae4249)
 
 ## Getting Started
